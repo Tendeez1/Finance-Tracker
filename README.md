@@ -1,6 +1,10 @@
-Hello! I'm Tommy Pham, and this is my GitHub portfolio where I showcase projects that reflect my passion for coding and problem-solving. Here you'll find a collection of personal projects, with a focus around C and Python.
+# Finance Tracker  
 
-Feel free to explore my repositories, dive into the code, and check out what I've been working on. I’m always learning and experimenting with new technologies, so stay tuned for more updates!
+This project is a Finance Tracker written in **C** with **SQLite** integration to manage personal finances. While this project could have been implemented more easily in Python, it was developed in C to challenge myself and improve my skills in combining low-level programming with database management.  
 
-Notion: https://far-crayfish-1f1.notion.site/Tommy-Pham-f587cc883b0f4ed8b219fa45c28bc2cf?pvs=4
-LinkedIn: https://www.linkedin.com/in/tommy-pham-a94b7626b/
+## Features  
+- **User Authentication**: Sign up and log in functionality to ensure secure access.  
+- **Add Transactions**: Record income and expenses with details such as amount, category, and date.  
+- **View Transactions**: Display all recorded transactions in an organized format.  
+- **Track Balance**: Automatically calculate and display the current balance.  
+- **SQL Integration**: Utilizes SQLite to store and manage data persistently.  
